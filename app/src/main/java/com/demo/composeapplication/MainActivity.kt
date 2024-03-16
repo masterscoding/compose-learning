@@ -110,8 +110,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                     //Greeting("Compose")
                     //Counter()
-                    //MainUI()
-                    HorizontalList()
+                    MainUI()
                 }
             }
         }
